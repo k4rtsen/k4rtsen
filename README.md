@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Karen</h1>
 <h3 align="center">A passionate software engineer from Russia</h3>
 
-- 🌱 I’m currently learning - **[Algorithms](https://www.coursera.org/learn/algorithms-part1)**
+- 🌱 I’m currently learning : **[Algorithms](https://www.coursera.org/learn/algorithms-part1)**
 
-- 💬 Ask me about anything - **[Questions](https://github.com/k4rtsen/k4rtsen/issues)**
+- 💬 Ask me about anything : **[Questions](https://github.com/k4rtsen/k4rtsen/issues)**
 
-- 📫 How to reach me: **[Telegram](https://t.me/kartsen)** or **[GMail](karen.ayv12599@gmail.com)**
+- 📫 How to reach me : **[Telegram](https://t.me/kartsen)** or **[GMail](karen.ayv12599@gmail.com)**
 
-- 📄 Know about my experiences: **[KarenAyvazyanCV(eng)](https://github.com/k4rtsen/k4rtsen/blob/main/KarenAyvazyanCV(eng).pdf)**
+- 📄 Know about my experiences : **[KarenAyvazyanCV(eng)](https://github.com/k4rtsen/k4rtsen/blob/main/KarenAyvazyanCV(eng).pdf)**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
