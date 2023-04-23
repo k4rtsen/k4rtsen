@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karen</h1>
 <h3 align="center">A passionate software engineer from Russia</h3>
 
-- 🌱 I’m currently learning : **[Algorithms](https://www.coursera.org/learn/algorithms-part1)**
+- 🌱 I’m currently learning : Algorithms and data structures
 
 - 💬 Ask me about anything : **[Questions](https://github.com/k4rtsen/k4rtsen/issues)**
 
