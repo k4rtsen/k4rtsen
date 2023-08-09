@@ -7,7 +7,7 @@
 
 - 📫 How to reach me : **[Telegram](https://t.me/kartsen)** or **[GMail](karen.ayv12599@gmail.com)**
 
-- 📄 Know about my experiences : **[My resume](https://github.com/k4rtsen/k4rtsen/blob/main/KarenAyvazyanCppCV.pdf)**
+- 📄 Know about my experiences : **[My CV](https://github.com/k4rtsen/k4rtsen/blob/main/KarenAyvazyanCppCV.pdf)**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
