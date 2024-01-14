@@ -5,7 +5,7 @@
 
 - 💬 Ask me about anything : **[Questions](https://github.com/k4rtsen/k4rtsen/issues)**
 
-- 📫 How to reach me : **[Telegram](https://t.me/kartsen)** or **[GMail](karen.ayv12599@gmail.com)**
+- 📫 How to reach me : **[Telegram](https://t.me/kartsen)** or **[GMail](https://karen.ayv12599@gmail.com)**
 
 - 📄 Know about my experiences : **[My CV](https://github.com/k4rtsen/k4rtsen/blob/main/KarenAyvazyanCppCV.pdf)**
 
